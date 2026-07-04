@@ -6,8 +6,8 @@ A calculator that can convert any number into an mathematical expression using o
 苦也，这也言周！
 
 
-OOOOO   OOOOO   OOOOO
+OOOOO   OOOOO   OOOOO                  
     O       O   O    
-OOOOO   OOOOO   OOOOO
+OOOOO   OOOOO   OOOOO              
     O   O           O
 OOOOO   OOOOO   OOOOO
